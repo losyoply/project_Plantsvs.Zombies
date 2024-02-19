@@ -1,0 +1,1131 @@
+# depslib dependency file v1.0
+1589727404 source:c:\users\losyo\desktop\second project\allegro5exception.cpp
+	<stdexcept>
+	"Allegro5Exception.hpp"
+
+1589727404 c:\users\losyo\desktop\second project\allegro5exception.hpp
+	<stdexcept>
+	<string>
+
+1589739902 source:c:\users\losyo\desktop\second project\audiohelper.cpp
+	<allegro5/allegro_audio.h>
+	"Allegro5Exception.hpp"
+	"AudioHelper.hpp"
+	"LOG.hpp"
+	"Resources.hpp"
+
+1455078707 c:\users\losyo\downloads\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1441921812 c:\users\losyo\downloads\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1481505627 c:\users\losyo\downloads\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1469641829 c:\users\losyo\downloads\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1481515577 c:\users\losyo\downloads\allegro\include\allegro5\platform\alplatf.h
+
+1468702395 c:\users\losyo\downloads\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1365819268 c:\users\losyo\downloads\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1468702395 c:\users\losyo\downloads\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1468702395 c:\users\losyo\downloads\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1354191040 c:\users\losyo\downloads\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1365819268 c:\users\losyo\downloads\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1324189852 c:\users\losyo\downloads\allegro\include\allegro5\platform\alandroidcfg.h
+
+1354191040 c:\users\losyo\downloads\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1365818594 c:\users\losyo\downloads\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1266925320 c:\users\losyo\downloads\allegro\include\allegro5\platform\alunix.h
+
+1405880629 c:\users\losyo\downloads\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1281012045 c:\users\losyo\downloads\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1281012045 c:\users\losyo\downloads\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1285076981 c:\users\losyo\downloads\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1469937462 c:\users\losyo\downloads\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1440810792 c:\users\losyo\downloads\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1354620434 c:\users\losyo\downloads\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1443029817 c:\users\losyo\downloads\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1419211222 c:\users\losyo\downloads\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1337492993 c:\users\losyo\downloads\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+
+1337169289 c:\users\losyo\downloads\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1418623615 c:\users\losyo\downloads\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1459716376 c:\users\losyo\downloads\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1441574420 c:\users\losyo\downloads\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1469937462 c:\users\losyo\downloads\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1455728992 c:\users\losyo\downloads\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1351456157 c:\users\losyo\downloads\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1441921812 c:\users\losyo\downloads\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1351638189 c:\users\losyo\downloads\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1354620434 c:\users\losyo\downloads\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1281012045 c:\users\losyo\downloads\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1281012045 c:\users\losyo\downloads\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1281012045 c:\users\losyo\downloads\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1468702395 c:\users\losyo\downloads\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1406018237 c:\users\losyo\downloads\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1459716376 c:\users\losyo\downloads\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1457207240 c:\users\losyo\downloads\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1354620434 c:\users\losyo\downloads\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1354620434 c:\users\losyo\downloads\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1374892601 c:\users\losyo\downloads\allegro\include\allegro5\keycodes.h
+
+1423030331 c:\users\losyo\downloads\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1456086987 c:\users\losyo\downloads\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1459716376 c:\users\losyo\downloads\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1459716376 c:\users\losyo\downloads\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1354620434 c:\users\losyo\downloads\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1459716376 c:\users\losyo\downloads\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1462125881 c:\users\losyo\downloads\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1427944064 c:\users\losyo\downloads\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1333148078 c:\users\losyo\downloads\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1289087210 c:\users\losyo\downloads\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1459716376 c:\users\losyo\downloads\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1440996195 c:\users\losyo\downloads\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1459113855 c:\users\losyo\downloads\allegro\include\allegro5\alcompat.h
+
+1589745928 c:\users\losyo\desktop\second project\audiohelper.hpp
+	<allegro5/allegro_audio.h>
+	<string>
+	<memory>
+
+1589727404 c:\users\losyo\desktop\second project\log.hpp
+	<fstream>
+	<iostream>
+
+1589727406 c:\users\losyo\desktop\second project\resources.hpp
+	<allegro5/bitmap.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<memory>
+	<string>
+	<unordered_map>
+
+1469937462 c:\users\losyo\downloads\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1618648784 source:c:\users\losyo\desktop\second project\bullet.cpp
+	"Bullet.hpp"
+	"Collider.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Sprite.hpp"
+
+1589727404 c:\users\losyo\desktop\second project\bullet.hpp
+	<string>
+	"Sprite.hpp"
+
+1618476674 c:\users\losyo\desktop\second project\sprite.hpp
+	<allegro5/color.h>
+	<string>
+	"Image.hpp"
+	"Point.hpp"
+
+1589727404 c:\users\losyo\desktop\second project\image.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<string>
+	"IObject.hpp"
+
+1589727404 c:\users\losyo\desktop\second project\iobject.hpp
+	<list>
+	<utility>
+	"Point.hpp"
+
+1589727406 c:\users\losyo\desktop\second project\point.hpp
+
+1589727404 c:\users\losyo\desktop\second project\collider.hpp
+	<allegro5/bitmap.h>
+	<memory>
+
+1622887215 c:\users\losyo\desktop\second project\enemy.hpp
+	<list>
+	<vector>
+	<string>
+	"Point.hpp"
+	"Sprite.hpp"
+
+1589731176 c:\users\losyo\desktop\second project\gameengine.hpp
+	<allegro5/allegro.h>
+	<string>
+	<unordered_map>
+	"Point.hpp"
+
+1589727404 c:\users\losyo\desktop\second project\group.hpp
+	<list>
+	<utility>
+	"IControl.hpp"
+	"IObject.hpp"
+
+1589727404 c:\users\losyo\desktop\second project\icontrol.hpp
+	<list>
+	<utility>
+
+1589727404 c:\users\losyo\desktop\second project\iscene.hpp
+	"Group.hpp"
+
+1622905983 c:\users\losyo\desktop\second project\playscene.hpp
+	<allegro5/allegro_audio.h>
+	<list>
+	<memory>
+	<utility>
+	<vector>
+	<tuple>
+	"IScene.hpp"
+	"Point.hpp"
+
+1621753542 source:c:\users\losyo\desktop\second project\bulleteffect.cpp
+	<cmath>
+	<string>
+	"BulletEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Resources.hpp"
+
+1622884632 c:\users\losyo\desktop\second project\bulleteffect.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+
+1621758582 source:c:\users\losyo\desktop\second project\chickenbullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"ChickenBullet.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1589727404 c:\users\losyo\desktop\second project\dirtyeffect.hpp
+	<string>
+	"Sprite.hpp"
+
+1621744428 c:\users\losyo\desktop\second project\chickenbullet.hpp
+	"Bullet.hpp"
+
+1589727404 source:c:\users\losyo\desktop\second project\collider.cpp
+	<allegro5/color.h>
+	<memory>
+	"Collider.hpp"
+	"Point.hpp"
+
+1589727404 source:c:\users\losyo\desktop\second project\dirtyeffect.cpp
+	<allegro5/base.h>
+	<allegro5/color.h>
+	<random>
+	"DirtyEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+
+1622903704 source:c:\users\losyo\desktop\second project\enemy.cpp
+	<allegro5/allegro_primitives.h>
+	<allegro5/color.h>
+	<cmath>
+	<random>
+	<string>
+	<vector>
+	<stdio.h>
+	"AudioHelper.hpp"
+	"Bullet.hpp"
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"ExplosionEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"LOG.hpp"
+	"PlayScene.hpp"
+	"Turret.hpp"
+	<utility>
+	"IObject.hpp"
+	"Point.hpp"
+
+1393645666 c:\users\losyo\downloads\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1589727404 c:\users\losyo\desktop\second project\explosioneffect.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+
+1622904674 c:\users\losyo\desktop\second project\turret.hpp
+	<allegro5/base.h>
+	<list>
+	<string>
+	"Sprite.hpp"
+
+1619537028 source:c:\users\losyo\desktop\second project\explosioneffect.cpp
+	<cmath>
+	<string>
+	"ExplosionEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Resources.hpp"
+
+1589731196 source:c:\users\losyo\desktop\second project\gameengine.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<chrono>
+	<memory>
+	<stdexcept>
+	<string>
+	<utility>
+	"Allegro5Exception.hpp"
+	"GameEngine.hpp"
+	"IScene.hpp"
+	"LOG.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1281012045 c:\users\losyo\downloads\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1459716376 c:\users\losyo\downloads\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1329948386 c:\users\losyo\downloads\allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1589727404 source:c:\users\losyo\desktop\second project\group.cpp
+	<stdexcept>
+	<utility>
+	"Group.hpp"
+	"IControl.hpp"
+	"IObject.hpp"
+
+1619536314 source:c:\users\losyo\desktop\second project\icecreambullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"IceCreamBullet.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1618641084 c:\users\losyo\desktop\second project\icecreambullet.hpp
+	"Bullet.hpp"
+
+1589727404 source:c:\users\losyo\desktop\second project\icontrol.cpp
+	"IControl.hpp"
+
+1589727404 source:c:\users\losyo\desktop\second project\image.cpp
+	<allegro5/allegro.h>
+	<memory>
+	"IObject.hpp"
+	"Image.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1589727404 source:c:\users\losyo\desktop\second project\imagebutton.cpp
+	<functional>
+	<memory>
+	"Collider.hpp"
+	"GameEngine.hpp"
+	"Image.hpp"
+	"ImageButton.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1589727404 c:\users\losyo\desktop\second project\imagebutton.hpp
+	<allegro5/bitmap.h>
+	<functional>
+	<memory>
+	<string>
+	"IControl.hpp"
+	"Image.hpp"
+
+1589727404 source:c:\users\losyo\desktop\second project\iobject.cpp
+	"Point.hpp"
+	"IObject.hpp"
+
+1589727404 source:c:\users\losyo\desktop\second project\iscene.cpp
+	<allegro5/allegro.h>
+	"IScene.hpp"
+
+1620739092 source:c:\users\losyo\desktop\second project\killer.cpp
+	<allegro5/allegro.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"Collider.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"Killer.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+	<iostream>
+
+1619539032 c:\users\losyo\desktop\second project\killer.hpp
+	"Sprite.hpp"
+
+1589727404 source:c:\users\losyo\desktop\second project\label.cpp
+	<allegro5/allegro_font.h>
+	<memory>
+	"IObject.hpp"
+	"Label.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1589727404 c:\users\losyo\desktop\second project\label.hpp
+	<allegro5/allegro_font.h>
+	<allegro5/color.h>
+	<memory>
+	<string>
+	"IObject.hpp"
+
+1589727404 source:c:\users\losyo\desktop\second project\log.cpp
+	<iostream>
+	<fstream>
+	"LOG.hpp"
+
+1619536222 source:c:\users\losyo\desktop\second project\losescene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"Image.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"LoseScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1589727404 c:\users\losyo\desktop\second project\losescene.hpp
+	<allegro5/allegro_audio.h>
+	<memory>
+	"IScene.hpp"
+
+1622881961 source:c:\users\losyo\desktop\second project\main.cpp
+	"GameEngine.hpp"
+	"LOG.hpp"
+	"LoseScene.hpp"
+	"PlayScene.hpp"
+	"StageSelectScene.hpp"
+	"WinScene.hpp"
+	"Start_Scene.hpp"
+	"SettingScene.hpp"
+
+1622881732 c:\users\losyo\desktop\second project\stageselectscene.hpp
+	<allegro5/allegro_audio.h>
+	<memory>
+	"IScene.hpp"
+
+1589727406 c:\users\losyo\desktop\second project\winscene.hpp
+	<allegro5/allegro_audio.h>
+	"IScene.hpp"
+
+1617716122 c:\users\losyo\desktop\second project\start_scene.hpp
+	<allegro5/allegro_audio.h>
+	<memory>
+	"IScene.hpp"
+
+1621736248 c:\users\losyo\desktop\second project\settingscene.hpp
+	<allegro5/allegro_audio.h>
+	<memory>
+	"IScene.hpp"
+
+1622888189 source:c:\users\losyo\desktop\second project\normalenemy.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"NormalEnemyBullet.hpp"
+	"Group.hpp"
+	"NormalEnemy.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Turret.hpp"
+
+1622887871 c:\users\losyo\desktop\second project\normalenemy.hpp
+	"Enemy.hpp"
+
+1621761778 source:c:\users\losyo\desktop\second project\otakuenemy.cpp
+	<string>
+	"OtakuEnemy.hpp"
+
+1621761780 c:\users\losyo\desktop\second project\otakuenemy.hpp
+	"Enemy.hpp"
+
+1619677948 source:c:\users\losyo\desktop\second project\plane.cpp
+	<allegro5/allegro.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"Collider.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"Plane.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1589727406 c:\users\losyo\desktop\second project\plane.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+
+1622906211 source:c:\users\losyo\desktop\second project\playscene.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<algorithm>
+	<random>
+	<cmath>
+	<fstream>
+	<functional>
+	<vector>
+	<queue>
+	<string>
+	<memory>
+	<numeric>
+	"AudioHelper.hpp"
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"Image.hpp"
+	"Label.hpp"
+	"NormalEnemy.hpp"
+	"PlateletTurret.hpp"
+	"WBCellTurret.hpp"
+	"Plane.hpp"
+	"PlayScene.hpp"
+	"Resources.hpp"
+	"SofaEnemy.hpp"
+	"StrongEnemy.hpp"
+	"Sprite.hpp"
+	"Turret.hpp"
+	"TurretButton.hpp"
+	"LOG.hpp"
+	"KirbyTurret.hpp"
+	"taikoenemy.hpp"
+	"NoAtkTurret.hpp"
+	"CircleTurret.hpp"
+	"BombTurret.hpp"
+	"BossEnemy.hpp"
+
+1618666898 c:\users\losyo\desktop\second project\plateletturret.hpp
+	"Turret.hpp"
+
+1618666890 c:\users\losyo\desktop\second project\wbcellturret.hpp
+	"Turret.hpp"
+
+1622887385 c:\users\losyo\desktop\second project\sofaenemy.hpp
+	"Enemy.hpp"
+
+1622887857 c:\users\losyo\desktop\second project\strongenemy.hpp
+	"Enemy.hpp"
+
+1618477908 c:\users\losyo\desktop\second project\turretbutton.hpp
+	<string>
+	"ImageButton.hpp"
+	"Sprite.hpp"
+
+1622883513 c:\users\losyo\desktop\second project\tcellturret.hpp
+	"Turret.hpp"
+
+1622904339 source:c:\users\losyo\desktop\second project\pockybullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"PockyBullet.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1618671458 c:\users\losyo\desktop\second project\pockybullet.hpp
+	"Bullet.hpp"
+
+1589727406 source:c:\users\losyo\desktop\second project\point.cpp
+	<cmath>
+	"Point.hpp"
+
+1589727406 source:c:\users\losyo\desktop\second project\resources.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<list>
+	<string>
+	<utility>
+	"Allegro5Exception.hpp"
+	"LOG.hpp"
+	"Resources.hpp"
+
+1622882319 source:c:\users\losyo\desktop\second project\settingscene.cpp
+	<allegro5/allegro_audio.h>
+	<functional>
+	<memory>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+	"Slider.hpp"
+	"SettingScene.hpp"
+	"Image.hpp"
+
+1589727406 c:\users\losyo\desktop\second project\slider.hpp
+	<functional>
+	"Image.hpp"
+	"ImageButton.hpp"
+
+1619529222 source:c:\users\losyo\desktop\second project\slider.cpp
+	<algorithm>
+	<string>
+	"Point.hpp"
+	"Slider.hpp"
+
+1622887421 source:c:\users\losyo\desktop\second project\sofaenemy.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"NormalEnemyBullet.hpp"
+	"Group.hpp"
+	"SofaEnemy.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Turret.hpp"
+
+1589727406 source:c:\users\losyo\desktop\second project\sprite.cpp
+	<allegro5/allegro.h>
+	<memory>
+	"Image.hpp"
+	"Point.hpp"
+	"Sprite.hpp"
+
+1622881961 source:c:\users\losyo\desktop\second project\stageselectscene.cpp
+	<allegro5/allegro_audio.h>
+	<functional>
+	<memory>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+	"Slider.hpp"
+	"StageSelectScene.hpp"
+
+1618122672 source:c:\users\losyo\desktop\second project\start_scene.cpp
+	<functional>
+	<memory>
+	<string>
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+	"Start_Scene.hpp"
+	"StageSelectScene.hpp"
+
+1622887791 source:c:\users\losyo\desktop\second project\strongenemy.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"NormalEnemyBullet.hpp"
+	"Group.hpp"
+	"StrongEnemy.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Turret.hpp"
+
+1622883126 source:c:\users\losyo\desktop\second project\tcellturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"tuanzibullet.hpp"
+	"Group.hpp"
+	"TCellTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Enemy.hpp"
+
+1622893583 source:c:\users\losyo\desktop\second project\turret.cpp
+	<allegro5/color.h>
+	<allegro5/allegro_primitives.h>
+	<cmath>
+	<utility>
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Turret.hpp"
+	"AudioHelper.hpp"
+	"ExplosionEffect.hpp"
+	<random>
+	<string>
+	<vector>
+	<stdio.h>
+	"DirtyEffect.hpp"
+	"EnemyBullet.hpp"
+
+1622894352 source:c:\users\losyo\desktop\second project\plateletturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"PockyBullet.hpp"
+	"Group.hpp"
+	"PlateletTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Enemy.hpp"
+	"ShootEffect.hpp"
+
+1618476970 source:c:\users\losyo\desktop\second project\turretbutton.cpp
+	<allegro5/color.h>
+	"GameEngine.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"TurretButton.hpp"
+
+1622894183 source:c:\users\losyo\desktop\second project\wbcellturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"IceCreamBullet.hpp"
+	"Group.hpp"
+	"WBCellTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Enemy.hpp"
+
+1589745838 source:c:\users\losyo\desktop\second project\winscene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"Image.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"WinScene.hpp"
+
+1622902869 source:c:\users\losyo\desktop\second project\tuanzibullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"tuanzibullet.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1622883917 c:\users\losyo\desktop\second project\tuanzibullet.hpp
+	"Bullet.hpp"
+
+1622887771 source:c:\users\losyo\desktop\second project\taikoenemy.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"NormalEnemyBullet.hpp"
+	"Group.hpp"
+	"taikoenemy.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Turret.hpp"
+
+1622887866 c:\users\losyo\desktop\second project\taikoenemy.hpp
+	"Enemy.hpp"
+
+1622894344 source:c:\users\losyo\desktop\second project\kirbyturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"tuanzibullet.hpp"
+	"Group.hpp"
+	"KirbyTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Enemy.hpp"
+
+1622883513 c:\users\losyo\desktop\second project\kirbyturret.hpp
+	"Turret.hpp"
+
+1622884881 c:\users\losyo\desktop\second project\shooteffect.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+
+1622884975 source:c:\users\losyo\desktop\second project\shooteffect.cpp
+	<cmath>
+	<string>
+	"ShootEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Resources.hpp"
+
+1622888173 c:\users\losyo\desktop\second project\normalenemybullet.hpp
+	"EnemyBullet.hpp"
+
+1622821016 c:\users\losyo\desktop\second project\enemybullet.hpp
+	<string>
+	"Sprite.hpp"
+
+1622864715 source:c:\users\losyo\desktop\second project\normalenemybullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Turret.hpp"
+	"NormalEnemyBullet.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Enemy.hpp"
+
+1622888574 source:c:\users\losyo\desktop\second project\enemybullet.cpp
+	"EnemyBullet.hpp"
+	"Collider.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Sprite.hpp"
+	"Turret.hpp"
+
+1622903932 source:c:\users\losyo\desktop\second project\noatkturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"tuanzibullet.hpp"
+	"Group.hpp"
+	"NoAtkTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Enemy.hpp"
+
+1622830073 c:\users\losyo\desktop\second project\noatkturret.hpp
+	"Turret.hpp"
+
+1622831495 c:\users\losyo\desktop\second project\circleturret.hpp
+	"Turret.hpp"
+
+1622838469 c:\users\losyo\desktop\second project\bombturret.hpp
+	"Turret.hpp"
+
+1622865194 c:\users\losyo\desktop\second project\bossenemy.hpp
+	"Enemy.hpp"
+
+1622860087 source:c:\users\losyo\desktop\second project\bombturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"tuanzibullet.hpp"
+	"Group.hpp"
+	"BombTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Enemy.hpp"
+
+1622867263 source:c:\users\losyo\desktop\second project\bossenemy.cpp
+	<string>
+	"BossEnemy.hpp"
+	"AudioHelper.hpp"
+	"NormalEnemyBullet.hpp"
+	"Group.hpp"
+	"KirbyTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Enemy.hpp"
+
+1622834290 source:c:\users\losyo\desktop\second project\circleturret.cpp
+	<allegro5/allegro_primitives.h>
+	<allegro5/color.h>
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"tuanzibullet.hpp"
+	"Group.hpp"
+	"CircleTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Enemy.hpp"
+
+1622904277 source:c:\users\losyo\desktop\second project\healeffect.cpp
+	<cmath>
+	<string>
+	"HealEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Resources.hpp"
+
+1622904239 c:\users\losyo\desktop\second project\healeffect.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+

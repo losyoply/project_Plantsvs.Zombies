@@ -1,0 +1,1731 @@
+# depslib dependency file v1.0
+1589727404 source:c:\users\losyo\desktop\hackthon mini 2\allegro5exception.cpp
+	<stdexcept>
+	"Allegro5Exception.hpp"
+
+1589727404 c:\users\losyo\desktop\hackthon mini 2\allegro5exception.hpp
+	<stdexcept>
+	<string>
+
+1589739902 source:c:\users\losyo\desktop\hackthon mini 2\audiohelper.cpp
+	<allegro5/allegro_audio.h>
+	"Allegro5Exception.hpp"
+	"AudioHelper.hpp"
+	"LOG.hpp"
+	"Resources.hpp"
+
+1455078707 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1441921812 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1481505627 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1469641829 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1481513233 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\platform\alplatf.h
+
+1468702395 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1365819268 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1468702395 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1468702395 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1354191040 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1365819268 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1324189852 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\platform\alandroidcfg.h
+
+1354191040 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1365818594 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1266925320 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\platform\alunix.h
+
+1405880629 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1281012045 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1281012045 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1285076981 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1469937462 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1440810792 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1354620434 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1443029817 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1419211222 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1337492993 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+
+1337169289 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1418623615 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1459716376 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1441574420 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1469937462 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1455728992 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1351456157 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1441921812 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1351638189 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1354620434 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1281012045 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1281012045 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1281012045 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1468702395 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1406018237 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1459716376 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1457207240 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1354620434 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1354620434 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1374892601 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\keycodes.h
+
+1423030331 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1456086987 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1459716376 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1459716376 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1354620434 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1459716376 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1462125881 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1427944064 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1333148078 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1289087210 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1459716376 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1440996195 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1459113855 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\alcompat.h
+
+1589745928 c:\users\losyo\desktop\hackthon mini 2\audiohelper.hpp
+	<allegro5/allegro_audio.h>
+	<string>
+	<memory>
+
+1589727404 c:\users\losyo\desktop\hackthon mini 2\log.hpp
+	<fstream>
+	<iostream>
+
+1589727406 c:\users\losyo\desktop\hackthon mini 2\resources.hpp
+	<allegro5/bitmap.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<memory>
+	<string>
+	<unordered_map>
+
+1469937462 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1618648783 source:c:\users\losyo\desktop\hackthon mini 2\bullet.cpp
+	"Bullet.hpp"
+	"Collider.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Sprite.hpp"
+
+1589727404 c:\users\losyo\desktop\hackthon mini 2\bullet.hpp
+	<string>
+	"Sprite.hpp"
+
+1618476672 c:\users\losyo\desktop\hackthon mini 2\sprite.hpp
+	<allegro5/color.h>
+	<string>
+	"Image.hpp"
+	"Point.hpp"
+
+1589727404 c:\users\losyo\desktop\hackthon mini 2\image.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<string>
+	"IObject.hpp"
+
+1589727404 c:\users\losyo\desktop\hackthon mini 2\iobject.hpp
+	<list>
+	<utility>
+	"Point.hpp"
+
+1589727406 c:\users\losyo\desktop\hackthon mini 2\point.hpp
+
+1589727404 c:\users\losyo\desktop\hackthon mini 2\collider.hpp
+	<allegro5/bitmap.h>
+	<memory>
+
+1619527753 c:\users\losyo\desktop\hackthon mini 2\enemy.hpp
+	<list>
+	<vector>
+	<string>
+	"Point.hpp"
+	"Sprite.hpp"
+
+1589731176 c:\users\losyo\desktop\hackthon mini 2\gameengine.hpp
+	<allegro5/allegro.h>
+	<string>
+	<unordered_map>
+	"Point.hpp"
+
+1589727404 c:\users\losyo\desktop\hackthon mini 2\group.hpp
+	<list>
+	<utility>
+	"IControl.hpp"
+	"IObject.hpp"
+
+1589727404 c:\users\losyo\desktop\hackthon mini 2\icontrol.hpp
+	<list>
+	<utility>
+
+1589727404 c:\users\losyo\desktop\hackthon mini 2\iscene.hpp
+	"Group.hpp"
+
+1619527719 c:\users\losyo\desktop\hackthon mini 2\playscene.hpp
+	<allegro5/allegro_audio.h>
+	<list>
+	<memory>
+	<utility>
+	<vector>
+	<tuple>
+	"IScene.hpp"
+	"Point.hpp"
+
+1589727404 source:c:\users\losyo\desktop\hackthon mini 2\collider.cpp
+	<allegro5/color.h>
+	<memory>
+	"Collider.hpp"
+	"Point.hpp"
+
+1589727404 source:c:\users\losyo\desktop\hackthon mini 2\dirtyeffect.cpp
+	<allegro5/base.h>
+	<allegro5/color.h>
+	<random>
+	"DirtyEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+
+1589727404 c:\users\losyo\desktop\hackthon mini 2\dirtyeffect.hpp
+	<string>
+	"Sprite.hpp"
+
+1619677955 source:c:\users\losyo\desktop\hackthon mini 2\enemy.cpp
+	<allegro5/allegro_primitives.h>
+	<allegro5/color.h>
+	<cmath>
+	<random>
+	<string>
+	<vector>
+	"AudioHelper.hpp"
+	"Bullet.hpp"
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"ExplosionEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"LOG.hpp"
+	"PlayScene.hpp"
+	"Turret.hpp"
+
+1393645666 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1589727404 c:\users\losyo\desktop\hackthon mini 2\explosioneffect.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+
+1618971472 c:\users\losyo\desktop\hackthon mini 2\turret.hpp
+	<allegro5/base.h>
+	<list>
+	<string>
+	"Sprite.hpp"
+
+1619537026 source:c:\users\losyo\desktop\hackthon mini 2\explosioneffect.cpp
+	<cmath>
+	<string>
+	"ExplosionEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Resources.hpp"
+
+1589731196 source:c:\users\losyo\desktop\hackthon mini 2\gameengine.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<chrono>
+	<memory>
+	<stdexcept>
+	<string>
+	<utility>
+	"Allegro5Exception.hpp"
+	"GameEngine.hpp"
+	"IScene.hpp"
+	"LOG.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1281012045 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1459716376 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1329948386 c:\users\losyo\downloads\allegro-mingw-gcc6.2.0-x64-static-5.2.2\allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1589727404 source:c:\users\losyo\desktop\hackthon mini 2\group.cpp
+	<stdexcept>
+	<utility>
+	"Group.hpp"
+	"IControl.hpp"
+	"IObject.hpp"
+
+1619536313 source:c:\users\losyo\desktop\hackthon mini 2\icecreambullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"IceCreamBullet.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1618641083 c:\users\losyo\desktop\hackthon mini 2\icecreambullet.hpp
+	"Bullet.hpp"
+
+1589727404 source:c:\users\losyo\desktop\hackthon mini 2\icontrol.cpp
+	"IControl.hpp"
+
+1589727404 source:c:\users\losyo\desktop\hackthon mini 2\image.cpp
+	<allegro5/allegro.h>
+	<memory>
+	"IObject.hpp"
+	"Image.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1589727404 source:c:\users\losyo\desktop\hackthon mini 2\imagebutton.cpp
+	<functional>
+	<memory>
+	"Collider.hpp"
+	"GameEngine.hpp"
+	"Image.hpp"
+	"ImageButton.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1589727404 c:\users\losyo\desktop\hackthon mini 2\imagebutton.hpp
+	<allegro5/bitmap.h>
+	<functional>
+	<memory>
+	<string>
+	"IControl.hpp"
+	"Image.hpp"
+
+1589727404 source:c:\users\losyo\desktop\hackthon mini 2\iobject.cpp
+	"Point.hpp"
+	"IObject.hpp"
+
+1589727404 source:c:\users\losyo\desktop\hackthon mini 2\iscene.cpp
+	<allegro5/allegro.h>
+	"IScene.hpp"
+
+1589727404 source:c:\users\losyo\desktop\hackthon mini 2\label.cpp
+	<allegro5/allegro_font.h>
+	<memory>
+	"IObject.hpp"
+	"Label.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1589727404 c:\users\losyo\desktop\hackthon mini 2\label.hpp
+	<allegro5/allegro_font.h>
+	<allegro5/color.h>
+	<memory>
+	<string>
+	"IObject.hpp"
+
+1589727404 source:c:\users\losyo\desktop\hackthon mini 2\log.cpp
+	<iostream>
+	<fstream>
+	"LOG.hpp"
+
+1619536220 source:c:\users\losyo\desktop\hackthon mini 2\losescene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"Image.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"LoseScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1589727404 c:\users\losyo\desktop\hackthon mini 2\losescene.hpp
+	<allegro5/allegro_audio.h>
+	<memory>
+	"IScene.hpp"
+
+1620740923 source:c:\users\losyo\desktop\hackthon mini 2\main.cpp
+	"GameEngine.hpp"
+	"LOG.hpp"
+	"LoseScene.hpp"
+	"PlayScene.hpp"
+	"StageSelectScene.hpp"
+	"WinScene.hpp"
+	"Start_Scene.hpp"
+
+1621829563 c:\users\losyo\desktop\hackthon mini 2\stageselectscene.hpp
+	<allegro5/allegro_audio.h>
+	<memory>
+	"IScene.hpp"
+
+1589727406 c:\users\losyo\desktop\hackthon mini 2\winscene.hpp
+	<allegro5/allegro_audio.h>
+	"IScene.hpp"
+
+1617716121 c:\users\losyo\desktop\hackthon mini 2\start_scene.hpp
+	<allegro5/allegro_audio.h>
+	<memory>
+	"IScene.hpp"
+
+1619536721 source:c:\users\losyo\desktop\hackthon mini 2\normalenemy.cpp
+	<string>
+	"NormalEnemy.hpp"
+
+1618926685 c:\users\losyo\desktop\hackthon mini 2\normalenemy.hpp
+	"Enemy.hpp"
+
+1619677947 source:c:\users\losyo\desktop\hackthon mini 2\plane.cpp
+	<allegro5/allegro.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"Collider.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"Plane.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1589727406 c:\users\losyo\desktop\hackthon mini 2\plane.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+
+1620739177 source:c:\users\losyo\desktop\hackthon mini 2\playscene.cpp
+	<allegro5/allegro.h>
+	<algorithm>
+	<random>
+	<cmath>
+	<fstream>
+	<functional>
+	<vector>
+	<queue>
+	<string>
+	<memory>
+	<numeric>
+	"AudioHelper.hpp"
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"Image.hpp"
+	"Label.hpp"
+	"NormalEnemy.hpp"
+	"PlateletTurret.hpp"
+	"WBCellTurret.hpp"
+	"Plane.hpp"
+	"PlayScene.hpp"
+	"Resources.hpp"
+	"SofaEnemy.hpp"
+	"StrongEnemy.hpp"
+	"Sprite.hpp"
+	"Turret.hpp"
+	"TurretButton.hpp"
+	"LOG.hpp"
+
+1618666896 c:\users\losyo\desktop\hackthon mini 2\plateletturret.hpp
+	"Turret.hpp"
+
+1618666888 c:\users\losyo\desktop\hackthon mini 2\wbcellturret.hpp
+	"Turret.hpp"
+
+1618926790 c:\users\losyo\desktop\hackthon mini 2\sofaenemy.hpp
+	"Enemy.hpp"
+
+1618926981 c:\users\losyo\desktop\hackthon mini 2\strongenemy.hpp
+	"Enemy.hpp"
+
+1618477907 c:\users\losyo\desktop\hackthon mini 2\turretbutton.hpp
+	<string>
+	"ImageButton.hpp"
+	"Sprite.hpp"
+
+1619529423 source:c:\users\losyo\desktop\hackthon mini 2\pockybullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"PockyBullet.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1618671456 c:\users\losyo\desktop\hackthon mini 2\pockybullet.hpp
+	"Bullet.hpp"
+
+1589727406 source:c:\users\losyo\desktop\hackthon mini 2\point.cpp
+	<cmath>
+	"Point.hpp"
+
+1589727406 source:c:\users\losyo\desktop\hackthon mini 2\resources.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<list>
+	<string>
+	<utility>
+	"Allegro5Exception.hpp"
+	"LOG.hpp"
+	"Resources.hpp"
+
+1619529220 source:c:\users\losyo\desktop\hackthon mini 2\slider.cpp
+	<algorithm>
+	<string>
+	"Point.hpp"
+	"Slider.hpp"
+
+1589727406 c:\users\losyo\desktop\hackthon mini 2\slider.hpp
+	<functional>
+	"Image.hpp"
+	"ImageButton.hpp"
+
+1618926811 source:c:\users\losyo\desktop\hackthon mini 2\sofaenemy.cpp
+	<string>
+	"SofaEnemy.hpp"
+
+1589727406 source:c:\users\losyo\desktop\hackthon mini 2\sprite.cpp
+	<allegro5/allegro.h>
+	<memory>
+	"Image.hpp"
+	"Point.hpp"
+	"Sprite.hpp"
+
+1619541353 source:c:\users\losyo\desktop\hackthon mini 2\stageselectscene.cpp
+	<allegro5/allegro_audio.h>
+	<functional>
+	<memory>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+	"Slider.hpp"
+	"StageSelectScene.hpp"
+
+1618122671 source:c:\users\losyo\desktop\hackthon mini 2\start_scene.cpp
+	<functional>
+	<memory>
+	<string>
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+	"Start_Scene.hpp"
+	"StageSelectScene.hpp"
+
+1618929555 source:c:\users\losyo\desktop\hackthon mini 2\strongenemy.cpp
+	<string>
+	"StrongEnemy.hpp"
+
+1618971488 source:c:\users\losyo\desktop\hackthon mini 2\turret.cpp
+	<allegro5/color.h>
+	<allegro5/allegro_primitives.h>
+	<cmath>
+	<utility>
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Turret.hpp"
+
+1618476968 source:c:\users\losyo\desktop\hackthon mini 2\turretbutton.cpp
+	<allegro5/color.h>
+	"GameEngine.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"TurretButton.hpp"
+
+1619536359 source:c:\users\losyo\desktop\hackthon mini 2\wbcellturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"IceCreamBullet.hpp"
+	"Group.hpp"
+	"WBCellTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Enemy.hpp"
+
+1589745838 source:c:\users\losyo\desktop\hackthon mini 2\winscene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"Image.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"WinScene.hpp"
+
+1589727404 source:c:\users\losyo\desktop\towerdefense\allegro5exception.cpp
+	<stdexcept>
+	"Allegro5Exception.hpp"
+
+1589727404 c:\users\losyo\desktop\towerdefense\allegro5exception.hpp
+	<stdexcept>
+	<string>
+
+1589739902 source:c:\users\losyo\desktop\towerdefense\audiohelper.cpp
+	<allegro5/allegro_audio.h>
+	"Allegro5Exception.hpp"
+	"AudioHelper.hpp"
+	"LOG.hpp"
+	"Resources.hpp"
+
+1589745928 c:\users\losyo\desktop\towerdefense\audiohelper.hpp
+	<allegro5/allegro_audio.h>
+	<string>
+	<memory>
+
+1589727404 c:\users\losyo\desktop\towerdefense\log.hpp
+	<fstream>
+	<iostream>
+
+1589727406 c:\users\losyo\desktop\towerdefense\resources.hpp
+	<allegro5/bitmap.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<memory>
+	<string>
+	<unordered_map>
+
+1618648783 source:c:\users\losyo\desktop\towerdefense\bullet.cpp
+	"Bullet.hpp"
+	"Collider.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Sprite.hpp"
+
+1589727404 c:\users\losyo\desktop\towerdefense\bullet.hpp
+	<string>
+	"Sprite.hpp"
+
+1618476672 c:\users\losyo\desktop\towerdefense\sprite.hpp
+	<allegro5/color.h>
+	<string>
+	"Image.hpp"
+	"Point.hpp"
+
+1589727404 c:\users\losyo\desktop\towerdefense\image.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<string>
+	"IObject.hpp"
+
+1589727404 c:\users\losyo\desktop\towerdefense\iobject.hpp
+	<list>
+	<utility>
+	"Point.hpp"
+
+1589727406 c:\users\losyo\desktop\towerdefense\point.hpp
+
+1589727404 c:\users\losyo\desktop\towerdefense\collider.hpp
+	<allegro5/bitmap.h>
+	<memory>
+
+1619527753 c:\users\losyo\desktop\towerdefense\enemy.hpp
+	<list>
+	<vector>
+	<string>
+	"Point.hpp"
+	"Sprite.hpp"
+
+1589731176 c:\users\losyo\desktop\towerdefense\gameengine.hpp
+	<allegro5/allegro.h>
+	<string>
+	<unordered_map>
+	"Point.hpp"
+
+1589727404 c:\users\losyo\desktop\towerdefense\group.hpp
+	<list>
+	<utility>
+	"IControl.hpp"
+	"IObject.hpp"
+
+1589727404 c:\users\losyo\desktop\towerdefense\icontrol.hpp
+	<list>
+	<utility>
+
+1589727404 c:\users\losyo\desktop\towerdefense\iscene.hpp
+	"Group.hpp"
+
+1619527719 c:\users\losyo\desktop\towerdefense\playscene.hpp
+	<allegro5/allegro_audio.h>
+	<list>
+	<memory>
+	<utility>
+	<vector>
+	<tuple>
+	"IScene.hpp"
+	"Point.hpp"
+
+1589727404 source:c:\users\losyo\desktop\towerdefense\collider.cpp
+	<allegro5/color.h>
+	<memory>
+	"Collider.hpp"
+	"Point.hpp"
+
+1589727404 source:c:\users\losyo\desktop\towerdefense\dirtyeffect.cpp
+	<allegro5/base.h>
+	<allegro5/color.h>
+	<random>
+	"DirtyEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+
+1589727404 c:\users\losyo\desktop\towerdefense\dirtyeffect.hpp
+	<string>
+	"Sprite.hpp"
+
+1619677955 source:c:\users\losyo\desktop\towerdefense\enemy.cpp
+	<allegro5/allegro_primitives.h>
+	<allegro5/color.h>
+	<cmath>
+	<random>
+	<string>
+	<vector>
+	"AudioHelper.hpp"
+	"Bullet.hpp"
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"ExplosionEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"LOG.hpp"
+	"PlayScene.hpp"
+	"Turret.hpp"
+
+1589727404 c:\users\losyo\desktop\towerdefense\explosioneffect.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+
+1618971472 c:\users\losyo\desktop\towerdefense\turret.hpp
+	<allegro5/base.h>
+	<list>
+	<string>
+	"Sprite.hpp"
+
+1619537026 source:c:\users\losyo\desktop\towerdefense\explosioneffect.cpp
+	<cmath>
+	<string>
+	"ExplosionEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Resources.hpp"
+
+1589731196 source:c:\users\losyo\desktop\towerdefense\gameengine.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<chrono>
+	<memory>
+	<stdexcept>
+	<string>
+	<utility>
+	"Allegro5Exception.hpp"
+	"GameEngine.hpp"
+	"IScene.hpp"
+	"LOG.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1589727404 source:c:\users\losyo\desktop\towerdefense\group.cpp
+	<stdexcept>
+	<utility>
+	"Group.hpp"
+	"IControl.hpp"
+	"IObject.hpp"
+
+1619536313 source:c:\users\losyo\desktop\towerdefense\icecreambullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"IceCreamBullet.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1618641083 c:\users\losyo\desktop\towerdefense\icecreambullet.hpp
+	"Bullet.hpp"
+
+1589727404 source:c:\users\losyo\desktop\towerdefense\icontrol.cpp
+	"IControl.hpp"
+
+1589727404 source:c:\users\losyo\desktop\towerdefense\image.cpp
+	<allegro5/allegro.h>
+	<memory>
+	"IObject.hpp"
+	"Image.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1589727404 source:c:\users\losyo\desktop\towerdefense\imagebutton.cpp
+	<functional>
+	<memory>
+	"Collider.hpp"
+	"GameEngine.hpp"
+	"Image.hpp"
+	"ImageButton.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1589727404 c:\users\losyo\desktop\towerdefense\imagebutton.hpp
+	<allegro5/bitmap.h>
+	<functional>
+	<memory>
+	<string>
+	"IControl.hpp"
+	"Image.hpp"
+
+1589727404 source:c:\users\losyo\desktop\towerdefense\iobject.cpp
+	"Point.hpp"
+	"IObject.hpp"
+
+1589727404 source:c:\users\losyo\desktop\towerdefense\iscene.cpp
+	<allegro5/allegro.h>
+	"IScene.hpp"
+
+1589727404 source:c:\users\losyo\desktop\towerdefense\label.cpp
+	<allegro5/allegro_font.h>
+	<memory>
+	"IObject.hpp"
+	"Label.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1589727404 c:\users\losyo\desktop\towerdefense\label.hpp
+	<allegro5/allegro_font.h>
+	<allegro5/color.h>
+	<memory>
+	<string>
+	"IObject.hpp"
+
+1589727404 source:c:\users\losyo\desktop\towerdefense\log.cpp
+	<iostream>
+	<fstream>
+	"LOG.hpp"
+
+1619536220 source:c:\users\losyo\desktop\towerdefense\losescene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"Image.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"LoseScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1589727404 c:\users\losyo\desktop\towerdefense\losescene.hpp
+	<allegro5/allegro_audio.h>
+	<memory>
+	"IScene.hpp"
+
+1621822614 source:c:\users\losyo\desktop\towerdefense\main.cpp
+	"GameEngine.hpp"
+	"LOG.hpp"
+	"LoseScene.hpp"
+	"PlayScene.hpp"
+	"StageSelectScene.hpp"
+	"WinScene.hpp"
+	"Start_Scene.hpp"
+	"../hackthon mini 2/settingscene.hpp"
+
+1621829563 c:\users\losyo\desktop\towerdefense\stageselectscene.hpp
+	<allegro5/allegro_audio.h>
+	<memory>
+	"IScene.hpp"
+
+1589727406 c:\users\losyo\desktop\towerdefense\winscene.hpp
+	<allegro5/allegro_audio.h>
+	"IScene.hpp"
+
+1617716121 c:\users\losyo\desktop\towerdefense\start_scene.hpp
+	<allegro5/allegro_audio.h>
+	<memory>
+	"IScene.hpp"
+
+1619536721 source:c:\users\losyo\desktop\towerdefense\normalenemy.cpp
+	<string>
+	"NormalEnemy.hpp"
+
+1618926685 c:\users\losyo\desktop\towerdefense\normalenemy.hpp
+	"Enemy.hpp"
+
+1619677947 source:c:\users\losyo\desktop\towerdefense\plane.cpp
+	<allegro5/allegro.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"Collider.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"Plane.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+
+1589727406 c:\users\losyo\desktop\towerdefense\plane.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+
+1621846698 source:c:\users\losyo\desktop\towerdefense\playscene.cpp
+	<allegro5/allegro.h>
+	<algorithm>
+	<random>
+	<cmath>
+	<fstream>
+	<functional>
+	<vector>
+	<queue>
+	<string>
+	<memory>
+	<numeric>
+	"AudioHelper.hpp"
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"Image.hpp"
+	"Label.hpp"
+	"NormalEnemy.hpp"
+	"PlateletTurret.hpp"
+	"WBCellTurret.hpp"
+	"Plane.hpp"
+	"PlayScene.hpp"
+	"Resources.hpp"
+	"SofaEnemy.hpp"
+	"StrongEnemy.hpp"
+	"Sprite.hpp"
+	"Turret.hpp"
+	"TurretButton.hpp"
+	"LOG.hpp"
+	"../hackthon mini 2/KirbyTurret.hpp"
+	"../hackthon mini 2/taikoenemy.hpp"
+
+1618666896 c:\users\losyo\desktop\towerdefense\plateletturret.hpp
+	"Turret.hpp"
+
+1618666888 c:\users\losyo\desktop\towerdefense\wbcellturret.hpp
+	"Turret.hpp"
+
+1618926790 c:\users\losyo\desktop\towerdefense\sofaenemy.hpp
+	"Enemy.hpp"
+
+1618926981 c:\users\losyo\desktop\towerdefense\strongenemy.hpp
+	"Enemy.hpp"
+
+1618477907 c:\users\losyo\desktop\towerdefense\turretbutton.hpp
+	<string>
+	"ImageButton.hpp"
+	"Sprite.hpp"
+
+1619529423 source:c:\users\losyo\desktop\towerdefense\pockybullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"PockyBullet.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1618671456 c:\users\losyo\desktop\towerdefense\pockybullet.hpp
+	"Bullet.hpp"
+
+1589727406 source:c:\users\losyo\desktop\towerdefense\point.cpp
+	<cmath>
+	"Point.hpp"
+
+1589727406 source:c:\users\losyo\desktop\towerdefense\resources.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_font.h>
+	<list>
+	<string>
+	<utility>
+	"Allegro5Exception.hpp"
+	"LOG.hpp"
+	"Resources.hpp"
+
+1619529220 source:c:\users\losyo\desktop\towerdefense\slider.cpp
+	<algorithm>
+	<string>
+	"Point.hpp"
+	"Slider.hpp"
+
+1589727406 c:\users\losyo\desktop\towerdefense\slider.hpp
+	<functional>
+	"Image.hpp"
+	"ImageButton.hpp"
+
+1618926811 source:c:\users\losyo\desktop\towerdefense\sofaenemy.cpp
+	<string>
+	"SofaEnemy.hpp"
+
+1621845904 source:c:\users\losyo\desktop\towerdefense\plateletturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"PockyBullet.hpp"
+	"Group.hpp"
+	"PlateletTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Enemy.hpp"
+	"../hackthon mini 2/ShootEffect.hpp"
+
+1589727406 source:c:\users\losyo\desktop\towerdefense\sprite.cpp
+	<allegro5/allegro.h>
+	<memory>
+	"Image.hpp"
+	"Point.hpp"
+	"Sprite.hpp"
+
+1621829733 source:c:\users\losyo\desktop\towerdefense\stageselectscene.cpp
+	<allegro5/allegro_audio.h>
+	<functional>
+	<memory>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+	"Slider.hpp"
+	"StageSelectScene.hpp"
+
+1618122671 source:c:\users\losyo\desktop\towerdefense\start_scene.cpp
+	<functional>
+	<memory>
+	<string>
+	"GameEngine.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+	"Start_Scene.hpp"
+	"StageSelectScene.hpp"
+
+1618929555 source:c:\users\losyo\desktop\towerdefense\strongenemy.cpp
+	<string>
+	"StrongEnemy.hpp"
+
+1621833872 source:c:\users\losyo\desktop\towerdefense\turret.cpp
+	<allegro5/color.h>
+	<allegro5/allegro_primitives.h>
+	<cmath>
+	<utility>
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Turret.hpp"
+
+1618476968 source:c:\users\losyo\desktop\towerdefense\turretbutton.cpp
+	<allegro5/color.h>
+	"GameEngine.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"TurretButton.hpp"
+
+1619536359 source:c:\users\losyo\desktop\towerdefense\wbcellturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"IceCreamBullet.hpp"
+	"Group.hpp"
+	"WBCellTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Enemy.hpp"
+
+1589745838 source:c:\users\losyo\desktop\towerdefense\winscene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"Image.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"WinScene.hpp"
+
+1455078707 c:\users\losyo\downloads\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1441921812 c:\users\losyo\downloads\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1481505627 c:\users\losyo\downloads\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1469641829 c:\users\losyo\downloads\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1481515577 c:\users\losyo\downloads\allegro\include\allegro5\platform\alplatf.h
+
+1468702395 c:\users\losyo\downloads\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1365819268 c:\users\losyo\downloads\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1468702395 c:\users\losyo\downloads\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1468702395 c:\users\losyo\downloads\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1354191040 c:\users\losyo\downloads\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1365819268 c:\users\losyo\downloads\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1324189852 c:\users\losyo\downloads\allegro\include\allegro5\platform\alandroidcfg.h
+
+1354191040 c:\users\losyo\downloads\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1365818594 c:\users\losyo\downloads\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1266925320 c:\users\losyo\downloads\allegro\include\allegro5\platform\alunix.h
+
+1405880629 c:\users\losyo\downloads\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1281012045 c:\users\losyo\downloads\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1281012045 c:\users\losyo\downloads\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1285076981 c:\users\losyo\downloads\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1469937462 c:\users\losyo\downloads\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1440810792 c:\users\losyo\downloads\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1354620434 c:\users\losyo\downloads\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1443029817 c:\users\losyo\downloads\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1419211222 c:\users\losyo\downloads\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1337492993 c:\users\losyo\downloads\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+
+1337169289 c:\users\losyo\downloads\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1418623615 c:\users\losyo\downloads\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1459716376 c:\users\losyo\downloads\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1441574420 c:\users\losyo\downloads\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1469937462 c:\users\losyo\downloads\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1455728992 c:\users\losyo\downloads\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1351456157 c:\users\losyo\downloads\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1441921812 c:\users\losyo\downloads\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1351638189 c:\users\losyo\downloads\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1354620434 c:\users\losyo\downloads\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1281012045 c:\users\losyo\downloads\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1281012045 c:\users\losyo\downloads\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1281012045 c:\users\losyo\downloads\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1468702395 c:\users\losyo\downloads\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1406018237 c:\users\losyo\downloads\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1459716376 c:\users\losyo\downloads\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1457207240 c:\users\losyo\downloads\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1354620434 c:\users\losyo\downloads\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1354620434 c:\users\losyo\downloads\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1374892601 c:\users\losyo\downloads\allegro\include\allegro5\keycodes.h
+
+1423030331 c:\users\losyo\downloads\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1456086987 c:\users\losyo\downloads\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1459716376 c:\users\losyo\downloads\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1459716376 c:\users\losyo\downloads\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1354620434 c:\users\losyo\downloads\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1459716376 c:\users\losyo\downloads\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1462125881 c:\users\losyo\downloads\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1427944064 c:\users\losyo\downloads\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1333148078 c:\users\losyo\downloads\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1289087210 c:\users\losyo\downloads\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1459716376 c:\users\losyo\downloads\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1440996195 c:\users\losyo\downloads\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1459113855 c:\users\losyo\downloads\allegro\include\allegro5\alcompat.h
+
+1469937462 c:\users\losyo\downloads\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1393645666 c:\users\losyo\downloads\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1281012045 c:\users\losyo\downloads\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1459716376 c:\users\losyo\downloads\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1329948386 c:\users\losyo\downloads\allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1620739090 source:c:\users\losyo\desktop\towerdefense\killer.cpp
+	<allegro5/allegro.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"Collider.hpp"
+	"Enemy.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IObject.hpp"
+	"IScene.hpp"
+	"Killer.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Resources.hpp"
+	<iostream>
+
+1619539031 c:\users\losyo\desktop\towerdefense\killer.hpp
+	"Sprite.hpp"
+
+1621829431 source:c:\users\losyo\desktop\hackthon mini 2\settingscene.cpp
+	<functional>
+	<string>
+	"AudioHelper.hpp"
+	"GameEngine.hpp"
+	"Image.hpp"
+	"ImageButton.hpp"
+	"Label.hpp"
+	"LoseScene.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"settingscene.hpp"
+	"Slider.hpp"
+	"StageSelectScene.hpp"
+
+1621828730 c:\users\losyo\desktop\hackthon mini 2\settingscene.hpp
+	<allegro5/allegro_audio.h>
+	<memory>
+	"IScene.hpp"
+
+1621832136 source:c:\users\losyo\desktop\hackthon mini 2\tuanzibullet.cpp
+	<allegro5/base.h>
+	<random>
+	<string>
+	"DirtyEffect.hpp"
+	"Enemy.hpp"
+	"tuanzibullet.hpp"
+	"Group.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+
+1621830939 c:\users\losyo\desktop\hackthon mini 2\tuanzibullet.hpp
+	"Bullet.hpp"
+
+1621834338 source:c:\users\losyo\desktop\hackthon mini 2\kirbyturret.cpp
+	<allegro5/base.h>
+	<cmath>
+	<string>
+	"AudioHelper.hpp"
+	"tuanzibullet.hpp"
+	"Group.hpp"
+	"KirbyTurret.hpp"
+	"PlayScene.hpp"
+	"Point.hpp"
+	"Enemy.hpp"
+
+1621832223 c:\users\losyo\desktop\hackthon mini 2\kirbyturret.hpp
+	"Turret.hpp"
+
+1621847990 source:c:\users\losyo\desktop\hackthon mini 2\taikoenemy.cpp
+	<string>
+	"taikoenemy.hpp"
+
+1621834604 c:\users\losyo\desktop\hackthon mini 2\taikoenemy.hpp
+	"Enemy.hpp"
+
+1621845563 source:c:\users\losyo\desktop\hackthon mini 2\shooteffect.cpp
+	<cmath>
+	<string>
+	"ShootEffect.hpp"
+	"GameEngine.hpp"
+	"Group.hpp"
+	"IScene.hpp"
+	"PlayScene.hpp"
+	"Resources.hpp"
+
+1621845449 c:\users\losyo\desktop\hackthon mini 2\shooteffect.hpp
+	<allegro5/bitmap.h>
+	<memory>
+	<vector>
+	"Sprite.hpp"
+
